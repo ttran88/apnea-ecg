@@ -16,6 +16,9 @@ The dataset consists of 70 records, divided into learning and test sets, with re
 
 For full data details and access, please visit the [Apnea-ECG Database page](#link-to-the-database).
 
+This is a handy visualization tool to access different records availble in the Apnea-ECG Database.
+https://physionet.org/lightwave/?db=apnea-ecg/1.0.0
+
 ## Methodology
 1. **Data Ingestion:** Ingested and converted device-specific flat files (such as .dat, .hea, .apn, and qrs) into an SQL database for easy access and efficient management.
 2. **Exploratory Analysis:** Performed analysis on continuous time series signals, including ECGs, respiratory signals, oronasal airflow, and oxygen saturation.
