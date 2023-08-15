@@ -14,7 +14,7 @@ The data for this project is sourced from the Apnea-ECG Database, published by G
 **Data Description:**
 The dataset consists of 70 records, divided into learning and test sets, with recordings varying in length from slightly less than 7 hours to nearly 10 hours each. File formats include .dat, .hea, .apn, and qrs, each serving different purposes.
 
-For full data details and access, please visit the [Apnea-ECG Database page](#link-to-the-database).
+For full data details and access, please visit the [Apnea-ECG Database page](https://physionet.org/content/apnea-ecg/1.0.0/).
 
 This is a handy visualization tool to access different records availble in the Apnea-ECG Database.
 https://physionet.org/lightwave/?db=apnea-ecg/1.0.0
